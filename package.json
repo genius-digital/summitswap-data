@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/Koda-Finance/summitswap-data/issues"
   },
-  "homepage": "https://github.com/Koda-Finance/summitswap-data#readme"
+  "homepage": "https://github.com/Koda-Finance/summitswap-data#readme",
+  "dependencies": {
+    "@ethersproject/address": "^5.5.0"
+  }
 }
