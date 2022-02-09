@@ -24,7 +24,7 @@
         "address": "0xe70b7523f4bffa1f2e88d2ba709afd026030f412",
         "chainId": 97,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/eth.png",
+        "logoURI": "",
         "referralEnabled": true
     },
     {
