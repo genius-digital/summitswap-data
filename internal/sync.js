@@ -1,6 +1,7 @@
 const XLSX = require("xlsx");
 
 const { ChainId } = require('@summitswap-sdk');
+const { getAddress } = require("@ethersproject/address");
 
 const fs = require("fs");
 
@@ -26,6 +27,8 @@ try {
     const json = [];
 
     for (const token of tokens) {
+      token.address = getAddress(token.address);
+
       const imageName = token.symbol.replace(/[^a-zA-Z]/g, "").toLowerCase();
       
       const tokenImageCoinPath = resolve(__dirname, `../images/coins/${imageName}.png`);
