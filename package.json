@@ -4,7 +4,7 @@
   "description": "Public data for summitswap",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "mocha",
     "build": "rimraf build && mkdir -p build && node internal/write.js > build/summitswap.json",
     "sync": "rimraf generated && mkdir -p generated && node internal/sync.js"
   },
@@ -33,6 +33,8 @@
     "@ethersproject/providers": "^5.5.3",
     "@ethersproject/solidity": "^5.5.0",
     "@summitswap-sdk/": "git+https://github.com/Koda-Finance/summitswap-sdk.git#fix/wbnb-is-not-checksummed",
+    "chai": "^4.3.6",
+    "mocha": "^9.2.0",
     "xlsx": "^0.18.0"
   }
 }
