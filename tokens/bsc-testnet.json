@@ -1,4 +1,4 @@
-[   
+[
     {
         "name": "KODA Token",
         "symbol": "KODA",
@@ -15,7 +15,7 @@
         "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
         "chainId": 97,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/busd.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/wbnb.png",
         "referralEnabled": true
     },
     {
@@ -33,7 +33,7 @@
         "address": "0x78867bbeef44f2326bf8ddd1941a4439382ef2a7",
         "chainId": 97,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/btc.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/busd.png",
         "referralEnabled": true
     }
 ]
