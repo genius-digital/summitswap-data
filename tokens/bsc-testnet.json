@@ -1,0 +1,39 @@
+[
+    
+    {
+        "name": "KODA Token",
+        "symbol": "KODA",
+        "address": "0x063646d9C4eCB1c341bECdEE162958f072C43561",
+        "chainId": 97,
+        "decimals": 9,
+        "priority": 100,
+        "referralEnabled": true
+    },
+    {
+        "name": "WBNB Token",
+        "symbol": "WBNB",
+        "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "/images/coins/BUSD.png",
+        "referralEnabled": true
+    },
+    {
+        "name": "LP3 Token",
+        "symbol": "LP3",
+        "address": "0xe70b7523f4bffa1f2e88d2ba709afd026030f412",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "/images/coins/ETH.png",
+        "referralEnabled": true
+    },
+    {
+        "name": "BUSD Token",
+        "symbol": "BUSD",
+        "address": "0x78867bbeef44f2326bf8ddd1941a4439382ef2a7",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "/images/coins/BTC.png",
+        "referralEnabled": true
+    }
+]
