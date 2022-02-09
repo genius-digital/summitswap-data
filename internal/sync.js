@@ -26,7 +26,9 @@ try {
     const json = [];
 
     for (const token of tokens) {
-      const tokenImageCoinPath = resolve(__dirname, `../images/coins/${token.symbol.replace(/[^a-zA-Z]/g, "")}.png`);
+      const imageName = token.symbol.replace(/[^a-zA-Z]/g, "").toLowerCase();
+      
+      const tokenImageCoinPath = resolve(__dirname, `../images/coins/${imageName}.png`);
       const tokenImageNetworkPath = resolve(__dirname, `../images/networks/${token.address}.png`);
 
       const isTokenImageCoinExists = fs.existsSync(tokenImageCoinPath);
@@ -44,14 +46,12 @@ try {
         continue;
       }
 
+      const logoInImageCoin = `https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/${imageName}.png`;
+      const logoInImageNetwork = `https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/networks/${NAME[key]}/${token.address}.png`;
+
       // Automate update logoURI
-      if (!token.logoURI.includes("Koda-Finance/summitswap-data") && (isTokenImageCoinExists || isTokenImageNetworkExists)) {
-        let logoURI = "";
-        if (isTokenImageCoinExists) {
-          logoURI = `https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/${token.symbol.replace(/[^a-zA-Z]/g, "")}.png`
-        } else if (isTokenImageNetworkExists) {
-          logoURI = `https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/networks/${NAME[key]}/${token.address}.png`
-        }
+      if (!(token.logoURI.includes(logoInImageCoin) || token.logoURI.includes(logoInImageNetwork))) {
+        const logoURI = isTokenImageCoinExists ? logoInImageCoin : logoInImageNetwork;
         token.logoURI = logoURI;
         console.log(`Update Logo URI for ${token.symbol} with ${logoURI}`);
       } else {
