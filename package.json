@@ -4,7 +4,8 @@
   "description": "Public data for summitswap",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rimraf build && mkdir -p build && node internal/write.js > build/summitswap.json"
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,7 @@
   },
   "homepage": "https://github.com/Koda-Finance/summitswap-data#readme",
   "dependencies": {
-    "@ethersproject/address": "^5.5.0"
+    "@ethersproject/address": "^5.5.0",
+    "@summitswap-sdk": "git+https://github.com/Koda-Finance/summitswap-sdk.git#main"
   }
 }
