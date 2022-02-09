@@ -12,7 +12,7 @@
     {
         "name": "WBNB Token",
         "symbol": "WBNB",
-        "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+        "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
         "chainId": 97,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/wbnb.png",
@@ -21,7 +21,7 @@
     {
         "name": "LP3 Token",
         "symbol": "LP3",
-        "address": "0xe70b7523f4bffa1f2e88d2ba709afd026030f412",
+        "address": "0xE70b7523f4bfFa1f2E88d2bA709Afd026030F412",
         "chainId": 97,
         "decimals": 18,
         "logoURI": "",
@@ -30,7 +30,7 @@
     {
         "name": "BUSD Token",
         "symbol": "BUSD",
-        "address": "0x78867bbeef44f2326bf8ddd1941a4439382ef2a7",
+        "address": "0x78867BbEeF44f2326bF8DDd1941a4439382EF2A7",
         "chainId": 97,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/busd.png",
