@@ -6,7 +6,7 @@
         "chainId": 56,
         "decimals": 9,
         "priority": 100,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/KODA.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/koda.png",
         "referralEnabled": true
     },
     {
@@ -33,7 +33,7 @@
         "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/BUSD.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/busd.png",
         "referralEnabled": true
     },
     {
@@ -42,7 +42,7 @@
         "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ETH.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/eth.png",
         "referralEnabled": true
     },
     {
@@ -51,7 +51,7 @@
         "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/BTC-icon.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/btcb.png",
         "referralEnabled": true
     },
     {
@@ -78,7 +78,7 @@
         "address": "0x55d398326f99059ff775485246999027b3197955",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/USDT-icon.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/usdt.png",
         "referralEnabled": true
     },
     {
@@ -87,7 +87,7 @@
         "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/XRP-icon.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/xrp.png",
         "referralEnabled": true
     },
     {
@@ -96,7 +96,7 @@
         "address": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/BCH-icon.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/bch.png",
         "referralEnabled": true
     },
     {
@@ -105,7 +105,7 @@
         "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/LTC-icon.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ltc.png",
         "referralEnabled": true
     },
     {
@@ -132,7 +132,7 @@
         "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/XTZ.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/xtz.png",
         "referralEnabled": true
     },
     {
@@ -141,7 +141,7 @@
         "address": "0xfd7b3a77848f1c2d67e05e54d78d174a0c850335",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ONT.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ont.png",
         "referralEnabled": true
     },
     {
@@ -150,7 +150,7 @@
         "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ZEC.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/zec.png",
         "referralEnabled": true
     },
     {
@@ -159,7 +159,7 @@
         "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/DAI-icon.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/dai.png",
         "referralEnabled": true
     },
     {
@@ -168,7 +168,7 @@
         "address": "0x7f70642d88cf1c4a3a7abb072b53b929b653eda5",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/YFII.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/yfii.png",
         "referralEnabled": true
     },
     {
@@ -186,7 +186,7 @@
         "address": "0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/PROM.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/prom.png",
         "referralEnabled": true
     },
     {
@@ -195,7 +195,7 @@
         "address": "0x007ea5c0ea75a8df45d288a4debdd5bb633f9e56",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/CAN.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/can.png",
         "referralEnabled": true
     },
     {
@@ -231,7 +231,7 @@
         "address": "0xf307910a4c7bbc79691fd374889b36d8531b08e3",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ANKR.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ankr.png",
         "referralEnabled": true
     },
     {
@@ -258,7 +258,7 @@
         "address": "0x748ad98b14c814b28812eb42ad219c8672909879",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/DICE.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/dice.png",
         "referralEnabled": true
     },
     {
@@ -267,7 +267,7 @@
         "address": "0x3c037c4c2296f280bb318d725d0b454b76c199b9",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/JNTRb.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/jntrb.png",
         "referralEnabled": true
     },
     {
@@ -276,7 +276,7 @@
         "address": "0xe4ae305ebe1abe663f261bc00534067c80ad677c",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/SPART.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/spart.png",
         "referralEnabled": true
     },
     {
@@ -285,7 +285,7 @@
         "address": "0x4b0f1812e5df2a09796481ff14017e6005508003",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/TWT.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/twt.png",
         "referralEnabled": true
     },
     {
@@ -294,7 +294,7 @@
         "address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/XVS.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/xvs.png",
         "referralEnabled": true
     },
     {
@@ -303,7 +303,7 @@
         "address": "0xbb8db5e17bbe9c90da8e3445e335b82d7cc53575",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/Beer.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/beer.png",
         "referralEnabled": true
     },
     {
@@ -312,7 +312,7 @@
         "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ALPHA.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/alpha.png",
         "referralEnabled": true
     },
     {
@@ -321,7 +321,7 @@
         "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/BIFI.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/bifi.png",
         "referralEnabled": true
     },
     {
@@ -330,7 +330,7 @@
         "address": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/YFI.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/yfi.png",
         "referralEnabled": true
     },
     {
@@ -339,7 +339,7 @@
         "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/UNI.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/uni.png",
         "referralEnabled": true
     },
     {
@@ -348,7 +348,7 @@
         "address": "0x393B312C01048b3ed2720bF1B090084C09e408A1",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/FRIES.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/fries.png",
         "referralEnabled": true
     },
     {
@@ -357,7 +357,7 @@
         "address": "0x0da6ed8b13214ff28e9ca979dd37439e8a88f6c4",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/STAX.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/stax.png",
         "referralEnabled": true
     },
     {
@@ -402,7 +402,7 @@
         "address": "0x47bead2563dcbf3bf2c9407fea4dc236faba485a",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/inj.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/sxp.png",
         "referralEnabled": true
     },
     {
@@ -429,7 +429,7 @@
         "address": "0xa1303e6199b319a891b79685f0537d289af1fc83",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/NAR.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/nar.png",
         "referralEnabled": true
     },
     {
@@ -438,7 +438,7 @@
         "address": "0xbfa0841f7a90c4ce6643f651756ee340991f99d5",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/NYA.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/nya.png",
         "referralEnabled": true
     },
     {
@@ -447,7 +447,7 @@
         "address": "0x0957c57c9eb7744850dcc95db5a06ed4a246236e",
         "chainId": 56,
         "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/DANGO.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/dango.png",
         "referralEnabled": true
     },
     {
@@ -456,7 +456,7 @@
         "address": "0xf79037f6f6be66832de4e7516be52826bc3cbcc4",
         "chainId": 56,
         "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/HARD.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/hard.png",
         "referralEnabled": true
     },
     {
@@ -465,7 +465,7 @@
         "address": "0xe64f5cb844946c1f102bd25bbd87a5ab4ae89fbe",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/BROOBEE.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/broobee.png",
         "referralEnabled": true
     },
     {
@@ -474,7 +474,7 @@
         "address": "0x728C5baC3C3e370E372Fc4671f9ef6916b814d8B",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/UNFI.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/unfi.png",
         "referralEnabled": true
     },
     {
@@ -483,7 +483,7 @@
         "address": "0x63870A18B6e42b01Ef1Ad8A2302ef50B7132054F",
         "chainId": 56,
         "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/BLK.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/blk.png",
         "referralEnabled": true
     },
     {
@@ -510,7 +510,7 @@
         "address": "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7",
         "chainId": 56,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/VAI.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/vai.png",
         "referralEnabled": true
     },
     {
@@ -519,7 +519,7 @@
         "address": "0xc40c9a843e1c6d01b7578284a9028854f6683b1b",
         "chainId": 56,
         "decimals": 2,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/JUV.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/juv.png",
         "referralEnabled": true
     },
     {
@@ -528,7 +528,7 @@
         "address": "0xbc5609612b7c44bef426de600b5fd1379db2ecf1",
         "chainId": 56,
         "decimals": 2,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/PSG.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/psg.png",
         "referralEnabled": true
     },
     {
@@ -537,7 +537,7 @@
         "address": "0x233d91A0713155003fc4DcE0AFa871b508B3B715",
         "chainId": 56,
         "decimals": 9,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/DITTO.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ditto.png",
         "referralEnabled": true
     },
     {
@@ -843,7 +843,7 @@
         "address": "0xfCe146bF3146100cfe5dB4129cf6C82b0eF4Ad8c",
         "chainId": 56,
         "decimals": 8,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/renBTC.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/renbtc.png",
         "referralEnabled": true
     },
     {
@@ -852,7 +852,7 @@
         "address": "0xc3fed6eb39178a541d274e6fc748d48f0ca01cc3",
         "chainId": 56,
         "decimals": 8,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/renDOGE.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/rendoge.png",
         "referralEnabled": true
     },
     {
@@ -933,7 +933,7 @@
         "address": "0x695FD30aF473F2960e81Dc9bA7cB67679d35EDb7",
         "chainId": 56,
         "decimals": 8,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/renZEC.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/renzec.png",
         "referralEnabled": true
     },
     {
