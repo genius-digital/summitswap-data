@@ -1,5 +1,4 @@
-[
-    
+[   
     {
         "name": "KODA Token",
         "symbol": "KODA",
@@ -7,6 +6,7 @@
         "chainId": 97,
         "decimals": 9,
         "priority": 100,
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/KODA.png",
         "referralEnabled": true
     },
     {
@@ -15,7 +15,7 @@
         "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
         "chainId": 97,
         "decimals": 18,
-        "logoURI": "/images/coins/BUSD.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/BUSD.png",
         "referralEnabled": true
     },
     {
@@ -24,7 +24,7 @@
         "address": "0xe70b7523f4bffa1f2e88d2ba709afd026030f412",
         "chainId": 97,
         "decimals": 18,
-        "logoURI": "/images/coins/ETH.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ETH.png",
         "referralEnabled": true
     },
     {
@@ -33,7 +33,7 @@
         "address": "0x78867bbeef44f2326bf8ddd1941a4439382ef2a7",
         "chainId": 97,
         "decimals": 18,
-        "logoURI": "/images/coins/BTC.png",
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/BTC.png",
         "referralEnabled": true
     }
 ]
