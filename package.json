@@ -1,0 +1,28 @@
+{
+  "name": "summitswap-data",
+  "version": "1.0.0",
+  "description": "Public data for summitswap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koda-Finance/summitswap-data.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "keywords": [
+    "summitswap",
+    "token",
+    "list"
+  ],
+  "author": "SummitSwap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Koda-Finance/summitswap-data/issues"
+  },
+  "homepage": "https://github.com/Koda-Finance/summitswap-data#readme"
+}
