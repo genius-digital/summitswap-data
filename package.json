@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "rimraf build && mkdir -p build && node internal/write.js > build/summitswap.json"
+    "build": "rimraf build && mkdir -p build && node internal/write.js > build/summitswap.json",
+    "sync": "rimraf generated && mkdir -p generated && node internal/sync.js"
   },
   "repository": {
     "type": "git",
@@ -28,6 +29,10 @@
   "homepage": "https://github.com/Koda-Finance/summitswap-data#readme",
   "dependencies": {
     "@ethersproject/address": "^5.5.0",
-    "@summitswap-sdk": "git+https://github.com/Koda-Finance/summitswap-sdk.git#main"
+    "@ethersproject/contracts": "^5.5.0",
+    "@ethersproject/providers": "^5.5.3",
+    "@ethersproject/solidity": "^5.5.0",
+    "@summitswap-sdk/": "git+https://github.com/Koda-Finance/summitswap-sdk.git#fix/wbnb-is-not-checksummed",
+    "xlsx": "^0.18.0"
   }
 }
