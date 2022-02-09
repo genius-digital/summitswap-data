@@ -1,21 +1,24 @@
 const XLSX = require("xlsx");
 
-const { ChainId } = require('@summitswap-sdk');
 const { getAddress } = require("@ethersproject/address");
 
 const fs = require("fs");
 
 const { resolve } = require("path");
+const ChainId = {
+  BSC: 56,
+  BSC_TESTNET: 97,
+};
 
 const NAME = {
-  [ChainId.MAINNET]: "bsc",
-  [ChainId.BSCTESTNET]: "bsc-testnet",
+  [ChainId.BSC]: "bsc",
+  [ChainId.BSC_TESTNET]: "bsc-testnet",
 };
 
 try {
   const book = XLSX.utils.book_new();
 
-  for (const key of Object.keys(ChainId)) {
+  for (const key of Object.values(ChainId)) {
     const tokenPath = resolve(__dirname, `../tokens/${NAME[key]}.json`);
 
     if (!fs.existsSync(tokenPath)) {
