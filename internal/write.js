@@ -1,3 +1,16 @@
-const buildList = require("./buildList");
+const fs = require("fs");
 
-console.log(JSON.stringify(buildList(), null, 2));
+const buildList = require("./buildList");
+const { ChainIds, Networks, Tokens } = require("../constants");
+
+Object.values(ChainIds).forEach(chainId => {
+  const tokenJson = buildList(Tokens[chainId]);
+  const stringifyTokenJson = JSON.stringify(tokenJson, null, 2);
+  fs.writeFile(`build/${Networks[chainId]}.json`, stringifyTokenJson, err => {
+    if (err) {
+      console.log(err);
+      return;
+    }
+    console.log(`Successfully Written to build/${Networks[chainId]}.json.`);
+  });
+});

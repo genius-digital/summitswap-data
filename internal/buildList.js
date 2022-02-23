@@ -1,9 +1,6 @@
 const { version } = require("../package.json");
 
-const bsc = require("../tokens/bsc.json");
-const bscTestnet = require("../tokens/bsc-testnet.json");
-
-module.exports = function buildList() {
+module.exports = function buildList(tokens) {
   const parsed = version.split(".")
   return {
     name: "SummitSwap Menu",
@@ -17,10 +14,7 @@ module.exports = function buildList() {
     logoURI:
       "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/koda.png",
     keywords: ["summitswap", "token", "list"],
-    tokens: [
-      ...bsc,
-      ...bscTestnet,
-    ]
+    tokens: tokens
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
