@@ -1,6 +1,6 @@
 {
   "name": "SummitSwap Menu",
-  "timestamp": "2022-02-14T09:22:10.388Z",
+  "timestamp": "2022-02-23T07:09:09.645Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -20,8 +20,7 @@
       "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ada.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ada.png"
     },
     {
       "name": "AlphaToken",
@@ -29,8 +28,7 @@
       "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/alpha.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/alpha.png"
     },
     {
       "name": "Ankr",
@@ -38,17 +36,14 @@
       "address": "0xf307910A4c7bbc79691fD374889b36d8531B08e3",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ankr.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ankr.png"
     },
     {
       "name": "anyMTLX",
       "symbol": "anyMTLX",
       "address": "0x5921DEE8556c4593EeFCFad3CA5e2f618606483b",
       "chainId": 56,
-      "decimals": 18,
-      "logoURI": "",
-      "referralEnabled": true
+      "decimals": 18
     },
     {
       "name": "AS Roma",
@@ -56,8 +51,7 @@
       "address": "0x80D5f92C2c8C682070C95495313dDB680B267320",
       "chainId": 56,
       "decimals": 2,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/asr.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/asr.png"
     },
     {
       "name": "Atletico de Madrid",
@@ -65,8 +59,7 @@
       "address": "0x25E9d05365c867E59C1904E7463Af9F312296f9E",
       "chainId": 56,
       "decimals": 2,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/atm.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/atm.png"
     },
     {
       "name": "Cosmos Token",
@@ -74,8 +67,7 @@
       "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/atom.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/atom.png"
     },
     {
       "name": "AUTOv2",
@@ -83,8 +75,7 @@
       "address": "0xa184088a740c695E156F91f5cC086a06bb78b827",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/auto.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/auto.png"
     },
     {
       "name": "Bakery Token",
@@ -92,8 +83,7 @@
       "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/bake.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/bake.png"
     },
     {
       "name": "AllianceBlock",
@@ -101,8 +91,7 @@
       "address": "0x72fAa679E1008Ad8382959FF48E392042A8b06f7",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/balbt.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/balbt.png"
     },
     {
       "name": "BAND Protocol Token",
@@ -110,8 +99,7 @@
       "address": "0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/band.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/band.png"
     },
     {
       "name": "Bitcoin Cash Token",
@@ -119,8 +107,7 @@
       "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/bch.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/bch.png"
     },
     {
       "name": "bDollar",
@@ -128,8 +115,7 @@
       "address": "0x190b589cf9Fb8DDEabBFeae36a813FFb2A702454",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/bdo.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/bdo.png"
     },
     {
       "name": "Beer Garden",
@@ -137,8 +123,7 @@
       "address": "0xbB8DB5e17BBe9c90Da8E3445E335b82d7cc53575",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/beer.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/beer.png"
     },
     {
       "name": "Beacon ETH",
@@ -146,8 +131,7 @@
       "address": "0x250632378E573c6Be1AC2f97Fcdf00515d0Aa91B",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/beth.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/beth.png"
     },
     {
       "name": "b.earnfi",
@@ -155,8 +139,7 @@
       "address": "0x81859801b01764D4f0Fa5E64729f5a6C3b91435b",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/bfi.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/bfi.png"
     },
     {
       "name": "Beefy.finance",
@@ -164,8 +147,7 @@
       "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/bifi.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/bifi.png"
     },
     {
       "name": "BLINk",
@@ -173,8 +155,7 @@
       "address": "0x63870A18B6e42b01Ef1Ad8A2302ef50B7132054F",
       "chainId": 56,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/blk.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/blk.png"
     },
     {
       "name": "Multiplier",
@@ -182,8 +163,7 @@
       "address": "0x4131b87F74415190425ccD873048C708F8005823",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/bmxx.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/bmxx.png"
     },
     {
       "name": "OPEN Governance Token",
@@ -191,8 +171,7 @@
       "address": "0xF35262a9d427F96d2437379eF090db986eaE5d42",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/bopen.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/bopen.png"
     },
     {
       "name": "BoringDAO",
@@ -200,8 +179,7 @@
       "address": "0x92D7756c60dcfD4c689290E8A9F4d263b3b32241",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/bor.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/bor.png"
     },
     {
       "name": "ROOBEE",
@@ -209,8 +187,7 @@
       "address": "0xE64F5Cb844946C1F102Bd25bBD87a5aB4aE89Fbe",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/broobee.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/broobee.png"
     },
     {
       "name": "Berry",
@@ -218,8 +195,7 @@
       "address": "0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/bry.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/bry.png"
     },
     {
       "name": "BSCEX",
@@ -227,8 +203,7 @@
       "address": "0x5Ac52EE5b2a633895292Ff6d8A89bB9190451587",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/bscx.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/bscx.png"
     },
     {
       "name": "BTCB Token",
@@ -236,8 +211,7 @@
       "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/btcb.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/btcb.png"
     },
     {
       "name": "Standard BTC Hashrate Token",
@@ -245,8 +219,7 @@
       "address": "0x78650B139471520656b9E7aA7A5e9276814a38e9",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/btcst.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/btcst.png"
     },
     {
       "name": "Burger Swap",
@@ -254,8 +227,7 @@
       "address": "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/burger.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/burger.png"
     },
     {
       "name": "BUSD Token",
@@ -263,8 +235,7 @@
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/busd.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/busd.png"
     },
     {
       "name": "PancakeSwap Token",
@@ -272,8 +243,7 @@
       "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/cake.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/cake.png"
     },
     {
       "name": "CanYaCoin",
@@ -281,8 +251,7 @@
       "address": "0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/can.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/can.png"
     },
     {
       "name": "Compound Finance",
@@ -290,8 +259,7 @@
       "address": "0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/comp.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/comp.png"
     },
     {
       "name": "Cream",
@@ -299,8 +267,7 @@
       "address": "0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/cream.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/cream.png"
     },
     {
       "name": "CertiK Token",
@@ -308,8 +275,7 @@
       "address": "0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929",
       "chainId": 56,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ctk.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ctk.png"
     },
     {
       "name": "Dai Token",
@@ -317,8 +283,7 @@
       "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/dai.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/dai.png"
     },
     {
       "name": "DANGO",
@@ -326,8 +291,7 @@
       "address": "0x0957C57C9EB7744850dCC95db5A06eD4a246236E",
       "chainId": 56,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/dango.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/dango.png"
     },
     {
       "name": "Dice.finance Token",
@@ -335,8 +299,7 @@
       "address": "0x748AD98b14C814B28812eB42ad219C8672909879",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/dice.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/dice.png"
     },
     {
       "name": "Ditto",
@@ -344,8 +307,7 @@
       "address": "0x233d91A0713155003fc4DcE0AFa871b508B3B715",
       "chainId": 56,
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ditto.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ditto.png"
     },
     {
       "name": "Dodo",
@@ -353,8 +315,7 @@
       "address": "0x67ee3Cb086F8a16f34beE3ca72FAD36F7Db929e2",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/dodo.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/dodo.png"
     },
     {
       "name": "Polkadot Token",
@@ -362,8 +323,7 @@
       "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/dot.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/dot.png"
     },
     {
       "name": "Elrond",
@@ -371,8 +331,7 @@
       "address": "0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/egld.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/egld.png"
     },
     {
       "name": "EOS Token",
@@ -380,8 +339,7 @@
       "address": "0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/eos.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/eos.png"
     },
     {
       "name": "Ethereum Token",
@@ -389,8 +347,7 @@
       "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/eth.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/eth.png"
     },
     {
       "name": "Filecoin",
@@ -398,8 +355,7 @@
       "address": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/fil.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/fil.png"
     },
     {
       "name": "fry.world",
@@ -407,8 +363,7 @@
       "address": "0x393B312C01048b3ed2720bF1B090084C09e408A1",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/fries.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/fries.png"
     },
     {
       "name": "Frontier Token",
@@ -416,8 +371,7 @@
       "address": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/front.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/front.png"
     },
     {
       "name": "Fuel",
@@ -425,8 +379,7 @@
       "address": "0x2090c8295769791ab7A3CF1CC6e0AA19F35e441A",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/fuel.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/fuel.png"
     },
     {
       "name": "HARD",
@@ -434,8 +387,7 @@
       "address": "0xf79037F6f6bE66832DE4E7516be52826BC3cBcc4",
       "chainId": 56,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/hard.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/hard.png"
     },
     {
       "name": "Helmet.insure",
@@ -443,8 +395,7 @@
       "address": "0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/helmet.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/helmet.png"
     },
     {
       "name": "Hedget",
@@ -452,8 +403,7 @@
       "address": "0xC7d8D35EBA58a0935ff2D5a33Df105DD9f071731",
       "chainId": 56,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/hget.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/hget.png"
     },
     {
       "name": "Injective Protocol",
@@ -461,8 +411,7 @@
       "address": "0xa2B726B1145A4773F68593CF171187d8EBe4d495",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/inj.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/inj.png"
     },
     {
       "name": "IoTeX",
@@ -470,8 +419,7 @@
       "address": "0x9678E42ceBEb63F23197D726B29b1CB20d0064E5",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/iotx.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/iotx.png"
     },
     {
       "name": "JNTR/b",
@@ -479,8 +427,7 @@
       "address": "0x3c037C4c2296f280bB318D725D0b454B76c199b9",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/jntrb.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/jntrb.png"
     },
     {
       "name": "Juventus",
@@ -488,8 +435,7 @@
       "address": "0xC40C9A843E1c6D01b7578284a9028854f6683b1B",
       "chainId": 56,
       "decimals": 2,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/juv.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/juv.png"
     },
     {
       "name": "KAVA",
@@ -497,8 +443,7 @@
       "address": "0x5F88AB06e8dfe89DF127B2430Bba4Af600866035",
       "chainId": 56,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/kava.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/kava.png"
     },
     {
       "name": "KODA Token",
@@ -516,8 +461,7 @@
       "address": "0x1A2fb0Af670D0234c2857FaD35b789F8Cb725584",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/kun.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/kun.png"
     },
     {
       "name": "Linear Finance",
@@ -525,8 +469,7 @@
       "address": "0x762539b45A1dCcE3D36d080F74d1AED37844b878",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/lina.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/lina.png"
     },
     {
       "name": "ChainLink Token",
@@ -534,8 +477,7 @@
       "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/link.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/link.png"
     },
     {
       "name": "Litentry",
@@ -543,8 +485,7 @@
       "address": "0xb59490aB09A0f526Cc7305822aC65f2Ab12f9723",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/lit.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/lit.png"
     },
     {
       "name": "Litecoin Token",
@@ -552,8 +493,7 @@
       "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ltc.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ltc.png"
     },
     {
       "name": "lUSD",
@@ -561,8 +501,7 @@
       "address": "0x23e8a70534308a4AAF76fb8C32ec13d17a3BD89e",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/lusd.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/lusd.png"
     },
     {
       "name": "Mirror AMZN Token",
@@ -570,8 +509,7 @@
       "address": "0x3947B992DC0147D2D89dF0392213781b04B25075",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/mamzn.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/mamzn.png"
     },
     {
       "name": "Math",
@@ -579,8 +517,7 @@
       "address": "0xF218184Af829Cf2b0019F8E6F0b2423498a36983",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/math.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/math.png"
     },
     {
       "name": "Mirror GOOGL Token",
@@ -588,8 +525,7 @@
       "address": "0x62D71B23bF15218C7d2D7E48DBbD9e9c650B173f",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/mgoogl.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/mgoogl.png"
     },
     {
       "name": "Mirror NFLX Token",
@@ -597,8 +533,7 @@
       "address": "0xa04F060077D90Fe2647B61e4dA4aD1F97d6649dc",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/mnflx.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/mnflx.png"
     },
     {
       "name": "Mirror TSLA Token",
@@ -606,8 +541,7 @@
       "address": "0xF215A127A196e3988C09d052e16BcFD365Cd7AA3",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/mtsla.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/mtsla.png"
     },
     {
       "name": "NAR Token",
@@ -615,8 +549,7 @@
       "address": "0xA1303E6199b319a891b79685F0537D289af1FC83",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/nar.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/nar.png"
     },
     {
       "name": "Nuls",
@@ -624,8 +557,7 @@
       "address": "0x8CD6e29d3686d24d3C2018CEe54621eA0f89313B",
       "chainId": 56,
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/nuls.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/nuls.png"
     },
     {
       "name": "NerveNetwork",
@@ -633,8 +565,7 @@
       "address": "0xf0E406c49C63AbF358030A299C0E00118C4C6BA5",
       "chainId": 56,
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/nvt.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/nvt.png"
     },
     {
       "name": "Nyanswop Token",
@@ -642,8 +573,7 @@
       "address": "0xbFa0841F7a90c4CE6643f651756EE340991F99D5",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/nya.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/nya.png"
     },
     {
       "name": "OG",
@@ -651,8 +581,7 @@
       "address": "0xf05E45aD22150677a017Fbd94b84fBB63dc9b44c",
       "chainId": 56,
       "decimals": 2,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/og.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/og.png"
     },
     {
       "name": "Ontology Token",
@@ -660,8 +589,7 @@
       "address": "0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ont.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ont.png"
     },
     {
       "name": "Prometeus",
@@ -669,8 +597,7 @@
       "address": "0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/prom.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/prom.png"
     },
     {
       "name": "Paris Saint-Germain",
@@ -678,8 +605,7 @@
       "address": "0xBc5609612b7C44BEf426De600B5fd1379DB2EcF1",
       "chainId": 56,
       "decimals": 2,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/psg.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/psg.png"
     },
     {
       "name": "QUSD Stablecoin",
@@ -687,8 +613,7 @@
       "address": "0xb8C540d00dd0Bf76ea12E4B4B95eFC90804f924E",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/qusd.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/qusd.png"
     },
     {
       "name": "Reef",
@@ -696,8 +621,7 @@
       "address": "0xF21768cCBC73Ea5B6fd3C687208a7c2def2d966e",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/reef.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/reef.png"
     },
     {
       "name": "renBTC",
@@ -705,8 +629,7 @@
       "address": "0xfCe146bF3146100cfe5dB4129cf6C82b0eF4Ad8c",
       "chainId": 56,
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/renbtc.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/renbtc.png"
     },
     {
       "name": "renDOGE",
@@ -714,8 +637,7 @@
       "address": "0xc3fEd6eB39178A541D274e6Fc748d48f0Ca01CC3",
       "chainId": 56,
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/rendoge.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/rendoge.png"
     },
     {
       "name": "renZEC",
@@ -723,8 +645,7 @@
       "address": "0x695FD30aF473F2960e81Dc9bA7cB67679d35EDb7",
       "chainId": 56,
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/renzec.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/renzec.png"
     },
     {
       "name": "bDollar Share",
@@ -732,8 +653,7 @@
       "address": "0x0d9319565be7f53CeFE84Ad201Be3f40feAE2740",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/sbdo.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/sbdo.png"
     },
     {
       "name": "SafePal Token",
@@ -741,8 +661,7 @@
       "address": "0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/sfp.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/sfp.png"
     },
     {
       "name": "SPARTAN PROTOCOL TOKEN",
@@ -750,8 +669,7 @@
       "address": "0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/spart.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/spart.png"
     },
     {
       "name": "StableXSwap",
@@ -759,8 +677,7 @@
       "address": "0x0Da6Ed8B13214Ff28e9Ca979Dd37439e8a88F6c4",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/stax.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/stax.png"
     },
     {
       "name": "Streamity",
@@ -768,8 +685,7 @@
       "address": "0x90DF11a8ccE420675e73922419e3f4f3Fe13CCCb",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/stm.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/stm.png"
     },
     {
       "name": "Sushi",
@@ -777,8 +693,7 @@
       "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/sushi.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/sushi.png"
     },
     {
       "name": "Swirge Pay",
@@ -786,8 +701,7 @@
       "address": "0xE40255C5d7fa7ceEc5120408C78C787CECB4cfdb",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/swgb.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/swgb.png"
     },
     {
       "name": "Swingby",
@@ -795,8 +709,7 @@
       "address": "0x71DE20e0C4616E7fcBfDD3f875d568492cBE4739",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/swingby.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/swingby.png"
     },
     {
       "name": "Swipe",
@@ -804,8 +717,7 @@
       "address": "0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/sxp.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/sxp.png"
     },
     {
       "name": "Tenet",
@@ -813,8 +725,7 @@
       "address": "0xdFF8cb622790b7F92686c722b02CaB55592f152C",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ten.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ten.png"
     },
     {
       "name": "Trust Wallet",
@@ -822,8 +733,7 @@
       "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/twt.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/twt.png"
     },
     {
       "name": "Unifi Token",
@@ -831,8 +741,7 @@
       "address": "0x728C5baC3C3e370E372Fc4671f9ef6916b814d8B",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/unfi.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/unfi.png"
     },
     {
       "name": "Uniswap",
@@ -840,8 +749,7 @@
       "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/uni.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/uni.png"
     },
     {
       "name": "Binance-Peg USD Coin",
@@ -849,8 +757,7 @@
       "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/usdc.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/usdc.png"
     },
     {
       "name": "Tether USD",
@@ -858,8 +765,7 @@
       "address": "0x55d398326f99059fF775485246999027B3197955",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/usdt.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/usdt.png"
     },
     {
       "name": "USDX",
@@ -867,8 +773,7 @@
       "address": "0x1203355742e76875154C0D13eB81DCD7711dC7d9",
       "chainId": 56,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/usdx.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/usdx.png"
     },
     {
       "name": "UST Token",
@@ -876,8 +781,7 @@
       "address": "0x23396cF899Ca06c4472205fC903bDB4de249D6fC",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ust.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/ust.png"
     },
     {
       "name": "VAI Stablecoin",
@@ -885,8 +789,7 @@
       "address": "0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/vai.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/vai.png"
     },
     {
       "name": "WBNB Token",
@@ -894,8 +797,7 @@
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/wbnb.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/wbnb.png"
     },
     {
       "name": "Soteria",
@@ -903,8 +805,7 @@
       "address": "0x541E619858737031A1244A5d0Cd47E5ef480342c",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/wsote.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/wsote.png"
     },
     {
       "name": "XRP Token",
@@ -912,8 +813,7 @@
       "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/xrp.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/xrp.png"
     },
     {
       "name": "Tezos Token",
@@ -921,8 +821,7 @@
       "address": "0x16939ef78684453bfDFb47825F8a5F714f12623a",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/xtz.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/xtz.png"
     },
     {
       "name": "Venus",
@@ -930,8 +829,7 @@
       "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/xvs.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/xvs.png"
     },
     {
       "name": "yearn.finance",
@@ -939,8 +837,7 @@
       "address": "0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/yfi.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/yfi.png"
     },
     {
       "name": "YFII.finance Token",
@@ -948,8 +845,7 @@
       "address": "0x7F70642d88cf1C4a3a7abb072B53B929b653edA5",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/yfii.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/yfii.png"
     },
     {
       "name": "Zcash Token",
@@ -957,8 +853,7 @@
       "address": "0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/zec.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/zec.png"
     },
     {
       "name": "ZeroSwapToken",
@@ -966,8 +861,7 @@
       "address": "0x44754455564474A89358B2C2265883DF993b12F0",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/zee.png",
-      "referralEnabled": true
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/zee.png"
     },
     {
       "name": "BUSD Token",
@@ -994,7 +888,6 @@
       "address": "0xE70b7523f4bfFa1f2E88d2bA709Afd026030F412",
       "chainId": 97,
       "decimals": 18,
-      "logoURI": "",
       "referralEnabled": true
     },
     {
