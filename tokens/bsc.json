@@ -22,21 +22,24 @@
         "symbol": "KAPEX",
         "address": "0x11441AFb1D10E3Ce4E39666FC4F4A2A5d6d8C0Da",
         "chainId": 56,
-        "decimals": 9
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/kapex.png"
     },
     {
         "name": "CMC Coin",
         "symbol": "CMCC",
         "address": "0xfa134985a4d9D10DBf2d7dCf811055aA25d0807C",
         "chainId": 56,
-        "decimals": 18
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/cmcc.png"
     },
     {
         "name": "Endgame",
         "symbol": "END",
         "address": "0x373e4b4E4D328927bc398A9B50e0082C6f91B7bb",
         "chainId": 56,
-        "decimals": 9
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/end.png"
     },
     {
         "name": "BUSD Token",
