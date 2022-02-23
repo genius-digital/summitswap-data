@@ -5,21 +5,13 @@ const { getAddress } = require("@ethersproject/address");
 const fs = require("fs");
 
 const { resolve } = require("path");
-const ChainId = {
-  BSC: 56,
-  BSC_TESTNET: 97,
-};
-
-const NAME = {
-  [ChainId.BSC]: "bsc",
-  [ChainId.BSC_TESTNET]: "bsc-testnet",
-};
+const { ChainIds, Networks } = require("../constants");
 
 try {
   const book = XLSX.utils.book_new();
 
-  for (const key of Object.values(ChainId)) {
-    const tokenPath = resolve(__dirname, `../tokens/${NAME[key]}.json`);
+  for (const key of Object.values(ChainIds)) {
+    const tokenPath = resolve(__dirname, `../tokens/${Networks[key]}.json`);
 
     if (!fs.existsSync(tokenPath)) {
       continue;
@@ -42,7 +34,7 @@ try {
 
       if (!isTokenImageCoinExists && !isTokenImageNetworkExists) {
         json.push({
-          network: NAME[key],
+          network: Networks[key],
           address: token.address,
           name: token.name,
           symbol: token.symbol,
@@ -53,7 +45,7 @@ try {
       }
 
       const logoInImageCoin = `https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/${imageName}.png`;
-      const logoInImageNetwork = `https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/networks/${NAME[key]}/${token.address}.png`;
+      const logoInImageNetwork = `https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/networks/${Networks[key]}/${token.address}.png`;
 
       // Automate update logoURI
       if (!(token?.logoURI?.includes(logoInImageCoin) || token?.logoURI?.includes(logoInImageNetwork))) {
@@ -69,7 +61,7 @@ try {
 
     const sheet = XLSX.utils.json_to_sheet(json);
 
-    XLSX.utils.book_append_sheet(book, sheet, NAME[key]);
+    XLSX.utils.book_append_sheet(book, sheet, Networks[key]);
   }
   XLSX.writeFile(book, resolve(__dirname, `../generated/missing-icons.xlsx`));
 } catch (error) {
