@@ -47,14 +47,6 @@
         "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/busd.png"
     },
     {
-        "name": "Bakery Token",
-        "symbol": "BAKE",
-        "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
-        "chainId": 56,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/bake.png"
-    },
-    {
         "name": "PancakeSwap Token",
         "symbol": "CAKE",
         "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
