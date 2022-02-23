@@ -56,7 +56,7 @@ try {
       const logoInImageNetwork = `https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/networks/${NAME[key]}/${token.address}.png`;
 
       // Automate update logoURI
-      if (!(token.logoURI.includes(logoInImageCoin) || token.logoURI.includes(logoInImageNetwork))) {
+      if (!(token?.logoURI?.includes(logoInImageCoin) || token?.logoURI?.includes(logoInImageNetwork))) {
         const logoURI = isTokenImageCoinExists ? logoInImageCoin : logoInImageNetwork;
         token.logoURI = logoURI;
         console.log(`Update Logo URI for ${token.symbol} with ${logoURI}`);
