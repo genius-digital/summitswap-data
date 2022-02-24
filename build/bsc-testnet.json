@@ -1,0 +1,54 @@
+{
+  "name": "SummitSwap Menu",
+  "timestamp": "2022-02-23T14:53:37.064Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/koda.png",
+  "keywords": [
+    "summitswap",
+    "token",
+    "list"
+  ],
+  "tokens": [
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0x78867BbEeF44f2326bF8DDd1941a4439382EF2A7",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/busd.png",
+      "referralEnabled": true
+    },
+    {
+      "name": "KODA Token",
+      "symbol": "KODA",
+      "address": "0x063646d9C4eCB1c341bECdEE162958f072C43561",
+      "chainId": 97,
+      "decimals": 9,
+      "priority": 100,
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/koda.png",
+      "referralEnabled": true
+    },
+    {
+      "name": "LP3 Token",
+      "symbol": "LP3",
+      "address": "0xE70b7523f4bfFa1f2E88d2bA709Afd026030F412",
+      "chainId": 97,
+      "decimals": 18,
+      "referralEnabled": true
+    },
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/wbnb.png",
+      "referralEnabled": true
+    }
+  ]
+}

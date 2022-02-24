@@ -1,0 +1,38 @@
+{
+  "name": "summitswap-data",
+  "version": "1.0.0",
+  "description": "Public data for summitswap",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "build": "rimraf build && mkdir -p build && node internal/write.js",
+    "sync": "rimraf generated && mkdir -p generated && node internal/sync.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koda-Finance/summitswap-data.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "keywords": [
+    "summitswap",
+    "token",
+    "list"
+  ],
+  "author": "SummitSwap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Koda-Finance/summitswap-data/issues"
+  },
+  "homepage": "https://github.com/Koda-Finance/summitswap-data#readme",
+  "dependencies": {
+    "@ethersproject/address": "^5.5.0",
+    "ajv": "^6.12.3",
+    "chai": "^4.3.6",
+    "mocha": "^9.2.0",
+    "rimraf": "^3.0.2",
+    "xlsx": "^0.18.0"
+  }
+}

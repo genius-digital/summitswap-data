@@ -1,0 +1,65 @@
+[
+    {
+        "name": "WBNB Token",
+        "symbol": "WBNB",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/wbnb.png"
+    },
+    {
+        "name": "KODA Token",
+        "symbol": "KODA",
+        "address": "0x8094e772fA4A60bdEb1DfEC56AB040e17DD608D5",
+        "chainId": 56,
+        "decimals": 9,
+        "priority": 100,
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/koda.png",
+        "referralEnabled": true
+    },
+    {
+        "name": "KAPEX",
+        "symbol": "KAPEX",
+        "address": "0x11441AFb1D10E3Ce4E39666FC4F4A2A5d6d8C0Da",
+        "chainId": 56,
+        "decimals": 9,
+        "priority": 99,
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/kapex.png"
+    },
+    {
+        "name": "CMC Coin",
+        "symbol": "CMCC",
+        "address": "0xfa134985a4d9D10DBf2d7dCf811055aA25d0807C",
+        "chainId": 56,
+        "decimals": 18,
+        "priority": 98,
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/cmcc.png"
+    },
+    {
+        "name": "Endgame",
+        "symbol": "END",
+        "address": "0x373e4b4E4D328927bc398A9B50e0082C6f91B7bb",
+        "chainId": 56,
+        "decimals": 9,
+        "priority": 97,
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/end.png"
+    },
+    {
+        "name": "BUSD Token",
+        "symbol": "BUSD",
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "chainId": 56,
+        "decimals": 18,
+        "priority": 96,
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/busd.png"
+    },
+    {
+        "name": "PancakeSwap Token",
+        "symbol": "CAKE",
+        "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+        "chainId": 56,
+        "decimals": 18,
+        "priority": 95,
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/cake.png"
+    }
+]
