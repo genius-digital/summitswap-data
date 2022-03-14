@@ -6,7 +6,7 @@
         "chainId": 56,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/wbnb.png",
-        "coingecko_id": "wbnb"
+        "coingeckoId": "wbnb"
     },
     {
         "name": "KODA Token",
@@ -19,7 +19,7 @@
         "referralEnabled": true,
         "buySlippageTolerance": 11.25,
         "sellSlippageTolerance": 11.23,
-        "coingecko_id": "koda-finance"
+        "coingeckoId": "koda-finance"
     },
     {
         "name": "CMC Coin",
@@ -30,7 +30,7 @@
         "priority": 98,
         "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/cmcc.png",
         "referralEnabled": true,
-        "coingecko_id": "cmc-coin"
+        "coingeckoId": "cmc-coin"
     },
     {
         "name": "Endgame",
@@ -41,7 +41,7 @@
         "priority": 97,
         "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/end.png",
         "referralEnabled": true,
-        "coingecko_id": "endgame-token"
+        "coingeckoId": "endgame-token"
     },
     {
         "name": "BUSD Token",
@@ -51,7 +51,7 @@
         "decimals": 18,
         "priority": 96,
         "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/busd.png",
-        "coingecko_id": "binance-usd"
+        "coingeckoId": "binance-usd"
     },
     {
         "name": "PancakeSwap Token",
@@ -61,6 +61,6 @@
         "decimals": 18,
         "priority": 95,
         "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/cake.png",
-        "coingecko_id": "cake"
+        "coingeckoId": "cake"
     }
 ]

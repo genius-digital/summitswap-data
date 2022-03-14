@@ -8,7 +8,7 @@
         "priority": 100,
         "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/koda.png",
         "referralEnabled": true,
-        "coingecko_id": "koda-finance"
+        "coingeckoId": "koda-finance"
     },
     {
         "name": "WBNB Token",
@@ -18,7 +18,7 @@
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/wbnb.png",
         "referralEnabled": true,
-        "coingecko_id": "wbnb"
+        "coingeckoId": "wbnb"
     },
     {
         "name": "LP3 Token",
@@ -36,6 +36,6 @@
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/busd.png",
         "referralEnabled": true,
-        "coingecko_id": "binance-usd"
+        "coingeckoId": "binance-usd"
     }
 ]
