@@ -223,7 +223,7 @@
               20.12
             ]
           },
-          "coingecko_id": {
+          "coingeckoId": {
             "type": "string",
             "description": "The unique identifier of the token on Coingecko",
             "examples": [
