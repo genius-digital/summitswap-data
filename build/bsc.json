@@ -1,6 +1,6 @@
 {
   "name": "SummitSwap Menu",
-  "timestamp": "2022-03-03T12:20:44.069Z",
+  "timestamp": "2022-03-14T08:25:37.804Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -21,7 +21,8 @@
       "chainId": 56,
       "decimals": 18,
       "priority": 96,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/busd.png"
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/busd.png",
+      "coingecko_id": "binance-usd"
     },
     {
       "name": "PancakeSwap Token",
@@ -30,7 +31,8 @@
       "chainId": 56,
       "decimals": 18,
       "priority": 95,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/cake.png"
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/cake.png",
+      "coingecko_id": "cake"
     },
     {
       "name": "CMC Coin",
@@ -40,7 +42,8 @@
       "decimals": 18,
       "priority": 98,
       "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/cmcc.png",
-      "referralEnabled": true
+      "referralEnabled": true,
+      "coingecko_id": "cmc-coin"
     },
     {
       "name": "Endgame",
@@ -50,7 +53,8 @@
       "decimals": 9,
       "priority": 97,
       "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/end.png",
-      "referralEnabled": true
+      "referralEnabled": true,
+      "coingecko_id": "endgame-token"
     },
     {
       "name": "KODA Token",
@@ -62,7 +66,8 @@
       "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/koda.png",
       "referralEnabled": true,
       "buySlippageTolerance": 11.25,
-      "sellSlippageTolerance": 11.23
+      "sellSlippageTolerance": 11.23,
+      "coingecko_id": "koda-finance"
     },
     {
       "name": "WBNB Token",
@@ -70,7 +75,8 @@
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/wbnb.png"
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/wbnb.png",
+      "coingecko_id": "wbnb"
     }
   ]
 }
