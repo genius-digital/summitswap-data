@@ -17,7 +17,8 @@
         "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/koda.png",
         "referralEnabled": true,
         "buySlippageTolerance": 11.25,
-        "sellSlippageTolerance": 11.23
+        "sellSlippageTolerance": 11.23,
+        "allowSellMax": false
     },
     {
         "name": "CMC Coin",
