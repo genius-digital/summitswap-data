@@ -1,6 +1,6 @@
 {
   "name": "SummitSwap Menu",
-  "timestamp": "2022-03-03T12:20:44.069Z",
+  "timestamp": "2022-03-16T09:04:40.259Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -62,7 +62,8 @@
       "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/koda.png",
       "referralEnabled": true,
       "buySlippageTolerance": 11.25,
-      "sellSlippageTolerance": 11.23
+      "sellSlippageTolerance": 11.23,
+      "allowSellMax": false
     },
     {
       "name": "WBNB Token",
