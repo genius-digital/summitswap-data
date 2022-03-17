@@ -37,5 +37,23 @@
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/busd.png",
         "referralEnabled": true
+    },
+    {
+        "name": "Dummy Token",
+        "symbol": "DCOIN",
+        "address": "0xDF65CbEEFF553797C825bE5977fbDc64747f163E",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/beer.png",
+        "referralEnabled": true
+    },
+    {
+        "name": "Dummy Token",
+        "symbol": "DCOIN2",
+        "address": "0x2b18DB0c3aA3C650C1532fEb4831Cd560B38C165",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/burger.png",
+        "referralEnabled": true
     }
 ]
