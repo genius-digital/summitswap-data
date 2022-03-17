@@ -15,43 +15,61 @@
   ],
   "tokens": [
     {
-      "name": "BUSD Token",
-      "symbol": "BUSD",
-      "address": "0x78867BbEeF44f2326bF8DDd1941a4439382EF2A7",
-      "chainId": 97,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/busd.png",
-      "referralEnabled": true
+        "name": "KODA Token",
+        "symbol": "KODA",
+        "address": "0x063646d9C4eCB1c341bECdEE162958f072C43561",
+        "chainId": 97,
+        "decimals": 9,
+        "priority": 100,
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/koda.png",
+        "referralEnabled": true,
+        "buySlippageTolerance": 11.25,
+        "sellSlippageTolerance": 11.23,
+        "allowSellMax": false
     },
     {
-      "name": "KODA Token",
-      "symbol": "KODA",
-      "address": "0x063646d9C4eCB1c341bECdEE162958f072C43561",
-      "chainId": 97,
-      "decimals": 9,
-      "priority": 100,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/koda.png",
-      "referralEnabled": true,
-      "buySlippageTolerance": 11.25,
-      "sellSlippageTolerance": 11.23,
-      "allowSellMax": false
+        "name": "WBNB Token",
+        "symbol": "WBNB",
+        "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/wbnb.png",
+        "referralEnabled": true
     },
     {
-      "name": "LP3 Token",
-      "symbol": "LP3",
-      "address": "0xE70b7523f4bfFa1f2E88d2bA709Afd026030F412",
-      "chainId": 97,
-      "decimals": 18,
-      "referralEnabled": true
+        "name": "LP3 Token",
+        "symbol": "LP3",
+        "address": "0xE70b7523f4bfFa1f2E88d2bA709Afd026030F412",
+        "chainId": 97,
+        "decimals": 18,
+        "referralEnabled": true
     },
     {
-      "name": "WBNB Token",
-      "symbol": "WBNB",
-      "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
-      "chainId": 97,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/wbnb.png",
-      "referralEnabled": true
+        "name": "BUSD Token",
+        "symbol": "BUSD",
+        "address": "0x78867BbEeF44f2326bF8DDd1941a4439382EF2A7",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/busd.png",
+        "referralEnabled": true
+    },
+    {
+        "name": "Dummy Token",
+        "symbol": "DCOIN",
+        "address": "0xDF65CbEEFF553797C825bE5977fbDc64747f163E",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/beer.png",
+        "referralEnabled": true
+    },
+    {
+        "name": "Dummy Token",
+        "symbol": "DCOIN2",
+        "address": "0x2b18DB0c3aA3C650C1532fEb4831Cd560B38C165",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/burger.png",
+        "referralEnabled": true
     }
-  ]
+]
 }
