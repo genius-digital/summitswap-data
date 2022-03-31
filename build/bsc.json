@@ -1,6 +1,6 @@
 {
   "name": "SummitSwap Menu",
-  "timestamp": "2022-03-31T19:26:36.762Z",
+  "timestamp": "2022-03-31T19:55:43.561Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -55,19 +55,6 @@
       "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/end.png",
       "referralEnabled": true,
       "coingeckoId": "endgame-token"
-    },
-    {
-      "name": "KAPEX",
-      "symbol": "KAPEX",
-      "address": "0x11441AFb1D10E3Ce4E39666FC4F4A2A5d6d8C0Da",
-      "chainId": 56,
-      "decimals": 18,
-      "priority": 99,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/kapex.png",
-      "referralEnabled": true,
-      "buySlippageTolerance": 15,
-      "sellSlippageTolerance": 15,
-      "allowSellMax": false
     },
     {
       "name": "KODA Token",
