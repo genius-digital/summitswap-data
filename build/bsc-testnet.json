@@ -1,6 +1,6 @@
 {
   "name": "SummitSwap Menu",
-  "timestamp": "2022-03-31T17:03:36.036Z",
+  "timestamp": "2022-03-31T19:26:36.762Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -29,7 +29,7 @@
       "symbol": "KAPEX",
       "address": "0x4e35b5D0Fc6A410e7Dd09C02673b5110c1B1D5a5",
       "chainId": 97,
-      "decimals": 9,
+      "decimals": 18,
       "priority": 99,
       "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/kapex.png"
     },
