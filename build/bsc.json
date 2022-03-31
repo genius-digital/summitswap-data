@@ -1,6 +1,6 @@
 {
   "name": "SummitSwap Menu",
-  "timestamp": "2022-03-31T11:48:37.422Z",
+  "timestamp": "2022-03-31T15:58:16.520Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -63,7 +63,11 @@
       "chainId": 56,
       "decimals": 9,
       "priority": 99,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/kapex.png"
+      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/kapex.png",
+      "referralEnabled": true,
+      "buySlippageTolerance": 15,
+      "sellSlippageTolerance": 15,
+      "allowSellMax": false
     },
     {
       "name": "KODA Token",

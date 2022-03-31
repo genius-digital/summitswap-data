@@ -28,7 +28,11 @@
         "chainId": 56,
         "decimals": 9,
         "priority": 99,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/kapex.png"
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/kapex.png",
+        "referralEnabled": true,
+        "buySlippageTolerance": 15,
+        "sellSlippageTolerance": 15,
+        "allowSellMax": false
     },
     {
         "name": "CMC Coin",
