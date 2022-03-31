@@ -1,6 +1,6 @@
 {
   "name": "SummitSwap Menu",
-  "timestamp": "2022-02-28T03:03:38.156Z",
+  "timestamp": "2022-03-18T10:56:07.401Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -21,7 +21,8 @@
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/busd.png",
-      "referralEnabled": true
+      "referralEnabled": true,
+      "coingeckoId": "binance-usd"
     },
     {
       "name": "KODA Token",
@@ -31,7 +32,11 @@
       "decimals": 9,
       "priority": 100,
       "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/koda.png",
-      "referralEnabled": true
+      "referralEnabled": true,
+      "coingeckoId": "koda-finance",
+      "buySlippageTolerance": 11.25,
+      "sellSlippageTolerance": 11.23,
+      "allowSellMax": false
     },
     {
       "name": "LP3 Token",
@@ -48,7 +53,8 @@
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/wbnb.png",
-      "referralEnabled": true
+      "referralEnabled": true,
+      "coingeckoId": "wbnb"
     }
   ]
 }
