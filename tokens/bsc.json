@@ -22,6 +22,19 @@
         "allowSellMax": false
     },
     {
+        "name": "KAPEX Token",
+        "symbol": "KAPEX",
+        "address": "0x11441AFb1D10E3Ce4E39666FC4F4A2A5d6d8C0Da",
+        "chainId": 56,
+        "decimals": 18,
+        "priority": 99,
+        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/kapex.png",
+        "referralEnabled": true,
+        "buySlippageTolerance": 15,
+        "sellSlippageTolerance": 15,
+        "allowSellMax": false
+    },
+    {
         "name": "CMC Coin",
         "symbol": "CMCC",
         "address": "0xfa134985a4d9D10DBf2d7dCf811055aA25d0807C",
