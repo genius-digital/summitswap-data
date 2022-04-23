@@ -1,6 +1,6 @@
 {
   "name": "SummitSwap Menu",
-  "timestamp": "2022-03-31T22:24:48.115Z",
+  "timestamp": "2022-04-23T15:52:04.699Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -27,7 +27,7 @@
     {
       "name": "KAPEX",
       "symbol": "KAPEX",
-      "address": "0x4e35b5D0Fc6A410e7Dd09C02673b5110c1B1D5a5",
+      "address": "0x8df2813ED24d1c27a9299226c812CfD7217eb99b",
       "chainId": 97,
       "decimals": 18,
       "priority": 99,
