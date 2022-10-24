@@ -1,6 +1,6 @@
 {
   "name": "SummitSwap Menu",
-  "timestamp": "2022-10-19T03:25:52.278Z",
+  "timestamp": "2022-10-20T10:18:41.164Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -23,15 +23,6 @@
       "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/busd.png",
       "referralEnabled": true,
       "coingeckoId": "binance-usd"
-    },
-    {
-      "name": "KAPEX",
-      "symbol": "KAPEX",
-      "address": "0x8df2813ED24d1c27a9299226c812CfD7217eb99b",
-      "chainId": 97,
-      "decimals": 18,
-      "priority": 99,
-      "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/kapex.png"
     },
     {
       "name": "KODA Token",

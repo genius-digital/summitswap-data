@@ -14,15 +14,6 @@
         "allowSellMax": false
     },
     {
-        "name": "KAPEX",
-        "symbol": "KAPEX",
-        "address": "0x8df2813ED24d1c27a9299226c812CfD7217eb99b",
-        "chainId": 97,
-        "decimals": 18,
-        "priority": 99,
-        "logoURI": "https://raw.githubusercontent.com/Koda-Finance/summitswap-data/main/images/coins/kapex.png"
-    },
-    {
         "name": "WBNB Token",
         "symbol": "WBNB",
         "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
